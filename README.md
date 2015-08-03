@@ -24,7 +24,14 @@ application up and running.
 
 * Deployment instructions
 
-* ...
+BLAH
+BLAH
+BLAH
+BLAH
+BLAH
+BLAH
+BLAH
+BLAH
 
 
 Please feel free to use a different markup language if you do not plan to run
